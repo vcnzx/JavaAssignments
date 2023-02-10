@@ -2,8 +2,11 @@
 
 public class Bat extends Mammal {
     
+    // public Bat(){
+    //     this.setEnergyLevel(300);
+    // }
     public Bat(){
-        this.setEnergyLevel(300);
+        super(300);
     }
 
     public void fly(){
