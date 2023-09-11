@@ -8,7 +8,7 @@ public class TestCoffeedore {
         coffeeKiosk.addMenuItem("donuts", 4.99);
         coffeeKiosk.addMenuItem("latte,change in main", 2.50);
         coffeeKiosk.addMenuItem("coffee", 0.23);
-        coffeeKiosk.addMenuItem("tea", 1.20);
+        coffeeKiosk.addMenuItem("teachanges", 1.20);
 
         coffeeKiosk.newOrder();
     }
